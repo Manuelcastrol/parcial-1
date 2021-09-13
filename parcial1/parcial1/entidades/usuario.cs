@@ -10,12 +10,12 @@ namespace parcial1.entidades
     {
 
         string nombre ;
-        string contra ;
+       int contra ;
 
 
 
         public string Nombre { get => nombre; set => nombre = value; }
-        public string Contra {get => contra; set => contra = value; }
+        public int Contra {get => contra; set => contra = value; }
 
 
     }

@@ -8,5 +8,11 @@ namespace parcial1.negocios
 {
     class Clsventa
     {
+
+        public string cobro()
+        {
+            return "";
+        }
+
     }
 }

@@ -8,5 +8,16 @@ namespace parcial1.entidades
 {
     class usuario
     {
+
+        string nombre ;
+        string contra ;
+
+
+
+        public string Nombre { get => nombre; set => nombre = value; }
+        public string Contra {get => contra; set => contra = value; }
+
+
     }
 }
+
